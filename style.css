@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+img {
+  border-radius: 7px;
+}
+
 a {
   text-decoration: none;
   color: black;
@@ -98,4 +102,22 @@ footer ul {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+.history {
+  margin-top: 3rem;
+}
+
+.history img {
+  width: 50vw;
+}
+
+.history p {
+  width: 70%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.history h2 {
+  padding: 2rem;
 }
